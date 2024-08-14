@@ -237,7 +237,7 @@ plt.grid(True)
 plt.show()
 
 
-# PREPROCESSING.
+# PREPROCESSING
 # Feature Engineering
 
 indices = np.arange(len(df))
