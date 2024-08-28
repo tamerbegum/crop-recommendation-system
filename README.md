@@ -1,5 +1,8 @@
 # Crop Recommendation System
 
+![field](https://github.com/user-attachments/assets/469b8c39-f84d-4edc-8b12-e225bec889b3)
+
+
 ## Overview
 This project is a Crop Recommendation System that uses machine learning to suggest suitable crops based on soil conditions and climate factors. It includes data analysis, model training, and a web application for easy use.
 
