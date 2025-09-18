@@ -30,9 +30,9 @@ This project is a Crop Recommendation System that uses machine learning to sugge
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/crop-recommendation-system.git
+``` git clone https://github.com/tamerbegum/crop-recommendation-system.git```
 2. Install required packages:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Usage
 1. Run the Streamlit application:
